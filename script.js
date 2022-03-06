@@ -1,7 +1,6 @@
 function main(){
-    var name = "Polygon";
-    name = 21;
-    console.log(name);
+    var name = ["Polygon",33];
+    return name;
 }
 
-main()
+console.log(main());
